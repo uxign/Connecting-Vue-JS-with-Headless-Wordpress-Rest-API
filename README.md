@@ -1,5 +1,6 @@
 # Connecting Vue JS with Headless Wordpress Rest API
 ```
+In this video I show you how to connect a Vue JS application to your Wordpress Backend Rest API
 ```
 # hello-world
 ```
