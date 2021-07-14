@@ -1,5 +1,11 @@
-# hello-world
+# Connecting Vue JS with Headless Wordpress Rest API
 
+# hello-world
+```
+Code Github : https://github.com/uxign/Headless-Wordpress-vue-js
+Wordpress Rest API Documentation - https://developer.wordpress.org/rest-api
+
+```
 ## Project setup
 ```
 npm install
